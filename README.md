@@ -61,9 +61,8 @@
 ---
 
 ### 🚀 Featured Projects
-- 🧾 [Data File Generator](https://github.com/J3SSY-ANDU/Data-File-Generator): Create structured text data for simulations and testing.
-- 💸 [Personal Finance Tracker](#): A full-stack app that connects to your bank, tracks transactions, and sends alerts.
-- 🧠 [AI Code Reviewer](#): Python-based project that reviews code using AST, Pylint, and OpenAI Codex.
+- 🍔 Food Delivery Data Analysis: Beginner-friendly data analysis project focusing on EDA, trends, and customer behavior insights.
+- 💸 Expense Tracker: A full-stack web app to track personal expenses, categorize spending, and visualize financial habits.
 
 ---
 
