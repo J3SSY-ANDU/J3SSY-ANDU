@@ -61,8 +61,8 @@
 ---
 
 ### 🚀 Featured Projects
-- 🍔 Food Delivery Data Analysis: Beginner-friendly data analysis project focusing on EDA, trends, and customer behavior insights.
-- 💸 Expense Tracker: A full-stack web app to track personal expenses, categorize spending, and visualize financial habits.
+- 🍔 [Food Delivery Data Analysis](https://github.com/J3SSY-ANDU/Food-Delivery-Data-Analysis): Beginner-friendly data analysis project focusing on EDA, trends, and customer behavior insights.
+- 💸 [Expense Tracker](https://github.com/J3SSY-ANDU/expense-tracker): A full-stack web app to track personal expenses, categorize spending, and visualize financial habits.
 
 ---
 
