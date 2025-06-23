@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Jessy Andújar
+## 👋 Hi there, I'm Jessy
 
 🎓 Software Engineering student passionate about building real-world solutions  
 📊 Currently focused on data science, machine learning, and full-stack development  
