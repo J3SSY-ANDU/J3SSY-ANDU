@@ -2,7 +2,7 @@
 
 🎓 Software Engineering student passionate about building real-world solutions  
 📊 Currently focused on full-stack development, data science, and machine learning  
-💻 Strong foundation in JavaScript/TypeScript, Python, React, and backend tools
+💻 Strong foundation in JavaScript/TypeScript, Python, React, and backend tools  
 🌎 Based in Puerto Rico | Bilingual (English & Spanish)  
 🚀 Always learning, always building
 
