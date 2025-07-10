@@ -1,8 +1,8 @@
 ## 👋 Hi there, I'm Jessy
 
 🎓 Software Engineering student passionate about building real-world solutions  
-📊 Currently focused on data science, machine learning, and full-stack development  
-💻 Strong foundation in Python, JavaScript/TypeScript, React, and backend tools  
+📊 Currently focused on full-stack development, data science, and machine learning  
+💻 Strong foundation in JavaScript/TypeScript, Python, React, and backend tools
 🌎 Based in Puerto Rico | Bilingual (English & Spanish)  
 🚀 Always learning, always building
 
