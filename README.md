@@ -9,14 +9,6 @@
 ---
 
 ### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
-![Seaborn](https://img.shields.io/badge/Seaborn-1f77b4?style=flat)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -36,6 +28,14 @@
 ![Bcrypt](https://img.shields.io/badge/Bcrypt-3A3A3A?style=flat)
 ![react-i18next](https://img.shields.io/badge/react--i18next-26A69A?style=flat)
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-1f77b4?style=flat)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
@@ -54,15 +54,15 @@
 ---
 
 ### 🌱 Currently Learning
+- Full-stack development with React, Node.js, Express, and MySQL
 - Data Science fundamentals: data wrangling, analysis, and visualization using Python, Pandas, NumPy, and Matplotlib  
 - Machine Learning tools and frameworks: Scikit-Learn, TensorFlow, Jupyter, and model evaluation techniques  
-- Full-stack development with React, Node.js, Express, and MySQL
 
 ---
 
 ### 🚀 Featured Projects
-- 🍔 [Food Delivery Data Analysis](https://github.com/J3SSY-ANDU/Food-Delivery-Data-Analysis): Beginner-friendly data analysis project focusing on EDA, trends, and customer behavior insights.
 - 💸 [Expense Tracker](https://github.com/J3SSY-ANDU/expense-tracker): A full-stack web app to track personal expenses, categorize spending, and visualize financial habits.
+- 🍔 [Food Delivery Data Analysis](https://github.com/J3SSY-ANDU/Food-Delivery-Data-Analysis): Beginner-friendly data analysis project focusing on EDA, trends, and customer behavior insights.
 
 ---
 
